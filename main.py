@@ -1,10 +1,9 @@
-# Function main បូកលេខ 2 ទៅលើ input n
+
 def main(n):
-    return n + 2  # បូក 2 ទៅ n
+    return n + 2
 
 
-# កំណត់តម្លៃចាប់ផ្តើម
-N = 2
+N = 3
 
 # បោះពុម្ពលទ្ធផល
-print(main(N))  # Expected output: 4
+print(main(N))
