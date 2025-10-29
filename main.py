@@ -3,7 +3,7 @@ def main(n):
     return n + 2
 
 
-N = 3
+N = 4
 
 # បោះពុម្ពលទ្ធផល
 print(main(N))
